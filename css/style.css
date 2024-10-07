@@ -1,0 +1,45 @@
+body {
+    background-color: #f8f9fa;
+}
+
+header {
+    border-bottom: 2px solid #dee2e6;
+    padding-bottom: 15px;
+}
+
+h1 {
+    color: #343a40;
+}
+
+nav a {
+    color: #fff0ff;
+    margin: 0 10px;
+}
+
+nav a:hover {
+    color: #0056b3;
+}
+
+section {
+    padding: 15px;
+    border: 1px solid #dee2e6;
+    border-radius: 0.25rem;
+    background-color: #ffffff;
+}
+
+h2 {
+    color: #343a40;
+}
+
+footer {
+    border-top: 2px solid #dee2e6;
+    padding-top: 15px;
+}
+
+footer a {
+    color: #007bff;
+}
+
+footer a:hover {
+    color: #0056b3;
+}
